@@ -17,11 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/Skitionek/notify-microsoft-teams.git"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run package && git add dist/index.js"
-    }
-  },
   "keywords": [
     "GitHub",
     "Actions",
